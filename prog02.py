@@ -1,0 +1,2 @@
+message = "Спасибо"
+print (message)

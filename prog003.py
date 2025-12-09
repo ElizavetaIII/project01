@@ -1,7 +1,7 @@
-a = 3
-b = 2
-c = b
-b = a
-a = c
-c = b
-print (c)
+number = 0
+if number > 0:
+    print ("число положительное")
+elif number < 0:
+    print ("число отрицательное")
+else:
+    print("Число равно нулю")
